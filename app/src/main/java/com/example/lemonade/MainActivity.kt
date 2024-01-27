@@ -67,6 +67,7 @@ fun Lemonade(modifier: Modifier = Modifier){
             else -> R.string.Empty_glass
         }
     )
+    val tanvir = 1
 
     Column(
         verticalArrangement = Arrangement.Center,
